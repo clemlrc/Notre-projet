@@ -22,6 +22,8 @@
                 <h1 class="display-4 text-center text-secondary">Jack & Mitchel - The new generation -</h1><hr>
 
                 <p class="alert alert-info text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique dignissimos quasi quaerat adipisci iure eum earum, cumque reiciendis, et architecto laboriosam a atque doloremque ad delectus. Iste dolores quaerat id.</p>
+
+                <p class="alert alert-success text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores asperiores eius aliquam laborum suscipit delectus reprehenderit mollitia dicta eaque, provident nostrum. Repellat ullam corrupti dolores minima enim laborum sunt aperiam! Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere recusandae non, temporibus, inventore corporis aliquam tempora nam porro dolorem nesciunt distinctio illum, adipisci totam optio quaerat ad! Provident, unde officiis!</p>
                 
 
         </div>
